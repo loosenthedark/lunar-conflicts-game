@@ -275,9 +275,6 @@ _Media type_ <br> Title/Description  | <br>Format  | <br>Credit(s)  | <br>Link(s
 | **_Sound effects_**         |                 |      |                |
 | **Missile/Bomb explosion**      |    `.wav`    |   [DrPetter](http://www.drpetter.se/project_sfxr.html), [Eric Fredricksen](http://fredricksen.net/), [Chris McCormick](https://github.com/chr15m/jsfxr)    | [jsfxr](http://sfxr.me/)      |
 | **Upgrade click noise**      |    `.wav`    |   [DrPetter](http://www.drpetter.se/project_sfxr.html), [Eric Fredricksen](http://fredricksen.net/), [Chris McCormick](https://github.com/chr15m/jsfxr)    | [jsfxr](http://sfxr.me/)      |
-|         |                 |      |                |
-| **_`README` hero image_**         |                 |      |                |
-| **'Insert Coin' graphic**      |    `.jpg`    |   [Mr. Fruit (YouTube gaming channel)](https://www.youtube.com/c/MrFruitGamingChannel)    | [Google Images](https://i.ytimg.com/vi/ykYsPnsOC7o/maxresdefault.jpg)      |
 </details>
 
 ## Acknowledgments
