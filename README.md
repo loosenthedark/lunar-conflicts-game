@@ -126,9 +126,9 @@ How long can you last?
 
 - Add expanded upgrades functionality to the game
 
-
 - Make future versions of the game playable across mobile and tablet devices
 
+- In-game [Easter eggs](https://en.wikipedia.org/wiki/Easter_egg_(media)#In_video_games)
 
 ## Technologies Used
 
@@ -281,9 +281,9 @@ _Media type_ <br> Title/Description  | <br>Format  | <br>Credit(s)  | <br>Link(s
 
 The team wish to thank their facilitator Maria for giving them plenty of power-ups throughout the project's evolution 🍄
 
-Note: Although no UFOs were harmed in the making of this game, we did sadly lose a few cities along the way 🤭
-
 ## Notice
+
+Although no UFOs were harmed in the making of this game, we did sadly lose a few cities along the way 🤭
 
 This site has been created for development purposes only.
 
