@@ -10,11 +10,11 @@
 
 ## User Experience (UX)
 
-![missile-command-flyer](https://user-images.githubusercontent.com/48750933/128887611-a9ea2ee0-4b10-46f3-ac9d-ac2c23b27a1b.jpeg)
-
-Based on the 1980's Missile Command game. Players must defend their cities by shooting down the missiles raining down from the large invading alien ships.  Collect upgrade points by shooting the smaller ships out of the sky and salvaging parts from them.
+**[Lunar Conflicts](https://loosenthedark.github.io/lunar-conflicts-game/)** is based on the 1980s Atari game Missile Command. Players must defend their cities by shooting down the missiles raining down from the large invading alien ships. Collect upgrade points by shooting the smaller ships out of the sky and salvaging parts from them.
 
 How long can you last?
+
+![missile-command-flyer](https://user-images.githubusercontent.com/48750933/128887611-a9ea2ee0-4b10-46f3-ac9d-ac2c23b27a1b.jpeg)
 
 ### User stories:
 
