@@ -14,6 +14,8 @@ Based on the 1980's Missile Command game. Players must defend their cities by sh
 
 How long can you last?
 
+![missile-command-flyer](https://user-images.githubusercontent.com/48750933/128887611-a9ea2ee0-4b10-46f3-ac9d-ac2c23b27a1b.jpeg)
+
 ### User stories:
 
 #### User goals:
